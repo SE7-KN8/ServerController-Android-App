@@ -33,6 +33,7 @@
         <EditText
             android:layout_width="match_parent"
             android:hint="@string/command"
+            android:inputType="text"
             android:id="@+id/edit_text_command"
             android:layout_height="wrap_content"
             android:layout_alignParentBottom="true"/>
